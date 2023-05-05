@@ -1,6 +1,6 @@
 ### 🙃 Here is what I'm working on! 👾 
 
-<!--
+
 
 
 - 🔭 I’m currently studying ... Engineering 
@@ -11,4 +11,3 @@
 - 📫 How to reach me: ... rnr4v1@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... It’s all 0’s and 1’s
--->
