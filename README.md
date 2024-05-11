@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently studying ... Engineering 
-- 🌱 I’m currently learning ... FLutter and Java
-- 👯 I’m looking to collaborate on ... FLutter
-- 🤔 I’m looking for guidance on  ... Frontend Developement 
+- 🌱 I’m currently learning ... Assembly Language
+- 👯 I’m looking to collaborate on ... RISC-V projects
+- 🤔 I’m looking for guidance on  ... AI on hardware 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... rnr4v1@gmail.com
 - 😄 Pronouns: ... He/Him
